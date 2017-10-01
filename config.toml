@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-107267953-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
   organization_url = "http://www6.rennes.inra.fr/igepp"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "sylvain.dechaumett@inra.fr"
+  email = "sylvain.dechaumet@gmail.com"
   address = "Domaine de la Motte au Vicomte, 35650 LE RHEU, FRANCE"
   office_hours = ""
   phone = "+33 223 485 997"
@@ -126,7 +126,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:sdechaumet@gmail.com"
+    link = "mailto:sylvain.dechaumet@gmail.com"
 
   [[params.social]]
     icon = "linkedin-square"
