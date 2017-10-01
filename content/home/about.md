@@ -37,9 +37,9 @@ weight = 1
 
 # Biography
 
-Hi ! I'm a PhD student in metabolomic at the Institute of Genetic, Environment and Plant Protection ([IGEPP](http://www6.rennes.inra.fr/igepp)). My work aims to have a better understanding of plants metabolism during ageing. Using metabolomic and transcriptomic approaches, I'm developping bioinformatic tools to assess & interpret the analysis of omics data using [R](https://www.r-project.org/). Beside my work at the Institute, I'm also a board member of the Junior section of the [RFMF](http://www.rfmf.fr/rfmf-junior.html) where we work on networking, teaching and organizing the metabolomic and fluxomic community.
+Hi ! I'm a PhD student in metabolomic at the Institute of Genetic, Environment and Plant Protection ([IGEPP](http://www6.rennes.inra.fr/igepp)). My work aims to have a better understanding of plants metabolism during ageing. Using metabolomic and transcriptomic approaches, I'm developing bioinformatics tools to assess & interpret the analysis of omics data using [R](https://www.r-project.org/). Beside my work at the Institute, I'm also a board member of the Junior section of the [RFMF](http://www.rfmf.fr/rfmf-junior.html) where we work on networking, teaching and organising the metabolomic and fluxomic community.
 
-My personal projects are mostly driven by open-source and DIY on subjects as data analysis/visualisations, domotic development (electronic & informatic) and mecanic.
+My personal projects are mostly driven by open-source and DIY on subjects as data analysis/visualisations, domotic development (electronic & informatics) and mechanics.
 
 
 
