@@ -1,6 +1,7 @@
 +++
 # Date this page was created.
 date = "2017-06-28"
+draft = true
 
 # Project title.
 title = "R studio server in a Raspberry"
