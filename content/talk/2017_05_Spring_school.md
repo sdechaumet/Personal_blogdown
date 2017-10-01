@@ -1,9 +1,9 @@
 +++
 date = "2017-05-05T00:00:00"
-title = "Leaf ageing in rapeseed, a qualitative and quantitative metabolomic view"
+title = "Leaf ageing in rapeseed, a qualitative and quantitative metabolomic view (FR)"
 abstract = ""
 abstract_short = ""
-event = "First Sping School by the RFMF Junior"
+event = "First Spring School by the RFMF Junior"
 event_url = "http://www.rfmf.fr/ecole-printaniere.html"
 location = "Saint Lambert des Bois, France"
 

@@ -1,6 +1,6 @@
 +++
 date = "2016-04-26T00:00:00"
-title = "An Introduction to image analysis for phenotyping"
+title = "An Introduction to image analysis for plant phenotyping (FR)"
 abstract = ""
 abstract_short = ""
 event = "Team talk"
@@ -10,7 +10,7 @@ location = "Le Rheu, France"
 selected = false
 math = true
 
-url_pdf = "https://drive.google.com/open?id=0BzRPQoqAbZxfU3VBV3NEVkhuTGs"
+url_pdf = "https://drive.google.com/open?id=0BzRPQoqAbZxfTVJBTjgteUlRa0U"
 # url_slides = ""
 # url_video = ""
 
